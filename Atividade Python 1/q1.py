@@ -4,4 +4,5 @@ a = "5"
 b = 3
 resultado = int(a) + float(b)
 print(resultado)
-# O resultado será 8.0, devido à conversão de 'a' para inteiro e 'b' para float antes da soma.
+'''O resultado será 8.0, devido à conversão de 'a' para inteiro e 'b' para float antes da soma.'''
+
