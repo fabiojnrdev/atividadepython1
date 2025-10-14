@@ -14,8 +14,7 @@ if __name__ == "__main__":
     main()
 ''' O usuário insere o preço total da compra e o valor pago pelo cliente,
     ambos como números no formato float. Em seguida, o programa calcula o troco
-    subtraindo o preço total do valor pago.
-'''
-''' Após o cálculo, o programa imprime o troco formatado com duas casas decimais,
+    subtraindo o preço total do valor pago. Após o cálculo, o programa imprime o troco formatado com duas casas decimais,
     utilizando uma f-string para garantir a formatação correta.
 '''
+
