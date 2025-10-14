@@ -19,7 +19,7 @@ if __name__ == "__main__":
     main()
 ''' O usuário digita a 
 primeira nota e em seguida 
-o peso da mesma, e assim segue na segunda nota'''
-''' Após a entrada dos dados, o cálulo da média é feito de acordo com
-a fórmula dada e o 
+o peso da mesma, e assim segue na segunda nota
+Após a entrada dos dados, o cálulo da média é feito de acordo com
+a fórmula dada e o
 resultado é exibido com duas casas decimais.'''
